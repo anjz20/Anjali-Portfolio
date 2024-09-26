@@ -131,7 +131,7 @@ export default function Navbar() {
                 <li className="text-center m-4">
                   <a
                     className="inline-block w-full"
-                    href="https://drive.google.com/file/d/1QJBzODF5EzZI5yiTRQQDG-ToE9VDX-DW/view?usp=sharing"
+                    href="https://drive.google.com/file/d/14Wzm7a5qc2A1NUiJlD5vhHJejiBfZOlo/view?usp=sharing" 
                     target="blank"
                   >
                     <button className="primary-button w-full text-white">
