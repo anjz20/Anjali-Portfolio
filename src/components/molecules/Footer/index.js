@@ -44,32 +44,7 @@ const Footer = () => {
           >
             <FaGithub className="text-2xl text-black" />
           </a>
-          {/* <a
-            className="inline-block mx-2"
-            href="https://www.instagram.com/sahhh1l"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            <FaInstagram className="text-2xl text-pink-500" />
-          </a> */}
-        {/* </div>
-        <div className="hidden  md:flex items-center justify-center mb-6 flex-wrap">
-          <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://dev.to/kiet7uke"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Dev
-          </a> */}
-          {/* <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://devpost.com/19btcse69?ref_content=user-portfolio&ref_feature=portfolio&ref_medium=global-nav"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Devpost
-          </a> */}
+          
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
             href="https://leetcode.com/u/Anjz2024/"
@@ -78,17 +53,10 @@ const Footer = () => {
           >
             Leetcode
           </a>
-          {/* <a
-            className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://devfolio.co/@KIET7UKE"
-            target="_blank"
-            rel="noopener noreferrer"
-          >
-            Devfolio
-          </a> */}
+         
           <a
             className="text-xl inline-bloc mx-6 text-neutral"
-            href="https://drive.google.com/file/d/14Wzm7a5qc2A1NUiJlD5vhHJejiBfZOlo/view?usp=sharing"
+            href="https://drive.google.com/file/d/1TTZ_9u9jqzKq1uMIDjaw-GJY8WJXwU8j/view?usp=sharing"
             target="_blank"
             rel="noopener noreferrer"
           >

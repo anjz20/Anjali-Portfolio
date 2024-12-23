@@ -81,8 +81,7 @@ const About = () => {
               My passion for solving complex problems and creating innovative
               solutions drives me to stay up-to-date with the latest
               technologies and trends in the industry.
-              {/* My next mission is how to become a Mern stack Developer. I would
-              love to build some Giant Website which will shine myself. */}
+           
             </p>
             <div className="grid grid-cols-1 lg:grid-cols-2 gap-x-12 gap-y-4 mt-4 text-center translate-y-[-50%] sm:translate-y-[-0%] sm:mb-2 md:text-left ">
               <h2 className="font-medium">
@@ -99,7 +98,7 @@ const About = () => {
                 <span className="mr-2 text-primary">Address : </span>Cuttack, Odisha, India
               </h2>
               <a
-                href="https://drive.google.com/file/d/14Wzm7a5qc2A1NUiJlD5vhHJejiBfZOlo/view?usp=sharing"
+                href="https://drive.google.com/file/d/1TTZ_9u9jqzKq1uMIDjaw-GJY8WJXwU8j/view?usp=sharing"
                 target="blank"
               >
                 <div className="flex justify-center md:justify-start translate-y-[60%] sm:translate-y-[-0%]">
@@ -117,13 +116,7 @@ const About = () => {
         </div>
       </div>
 
-      {/* My Skill */}
-      <MySkill />
-
-      {/* My Experience */}
-      <Experience/>
-
-      {/* Education */}
+     
       <Education />
     </div>
   );
